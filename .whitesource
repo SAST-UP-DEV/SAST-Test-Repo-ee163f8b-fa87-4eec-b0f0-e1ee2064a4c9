@@ -18,6 +18,10 @@
     "minSeverityLevel": "NONE",
     "issueType": "DEPENDENCY"
   },
+  "issueSettingsSAST": {
+    "minSeverityLevel": "low",
+    "issueType": "finding"
+  },
   "remediateSettings": {
     "workflowRules": {
       "enabled": false
